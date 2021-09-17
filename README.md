@@ -8,6 +8,8 @@
 - Variables
 - Keywords
 - Datatypes&Conversions
-- Operators
-- Recording link-https://transcripts.gotomeeting.com/#/s/e79c8a5272cd9a81fa0720f1107913d00b3d7eb64362ac5f04d4c4a0b426706c
+- Recording link-https://drive.google.com/file/d/1tjfbTFRuQa9jf_uB9q_4w4W3doMPLLJC/view
 
+# Day-3
+- operators
+- Recordig link-https://transcripts.gotomeeting.com/#/s/e79c8a5272cd9a81fa0720f1107913d00b3d7eb64362ac5f04d4c4a0b426706c
