@@ -18,3 +18,9 @@
 - Conditional statements
 - loops
 - Gotomeeting link-https://transcripts.gotomeeting.com/#/s/a1db8c5437d8190f691df7a41ee467e9868b91d3c3aeec09c8a1d657d82cce4b
+
+# Day-5
+- loops continue
+- while loop
+- jumping statements
+- gotomeeting link-https://transcripts.gotomeeting.com/#/s/ac35b2727629c570795760e15e736e478cb87a219a9f568342ca622ba67f2e87
