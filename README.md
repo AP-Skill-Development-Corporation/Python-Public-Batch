@@ -24,3 +24,7 @@
 - while loop
 - jumping statements
 - gotomeeting link-https://transcripts.gotomeeting.com/#/s/ac35b2727629c570795760e15e736e478cb87a219a9f568342ca622ba67f2e87
+
+# Day-6
+- functions
+- goto meeting link-https://transcripts.gotomeeting.com/#/s/c3d647c4db34ce3e8455f2e092071fe006f56635978c32d494c90ff866087b29
